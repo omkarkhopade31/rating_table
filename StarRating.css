@@ -1,0 +1,16 @@
+.star-rating {
+    position: absolute;
+  right: 6%;
+  top: 12%;
+  transform: translate(12%, 6%);
+    font-size: 40px;
+  }
+  
+  .star-filled {
+    color: gold;
+  }
+  
+  .star-empty {
+    color: gray;
+  }
+  
